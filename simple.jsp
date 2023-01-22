@@ -1,33 +1,23 @@
 <html>
-<head>
-  <title>Echoing HTML Request Parameters</title>
-</head>
-<body>
-  <h3>Choose an author:</h3>
-  <form method="get">
-    <input type="checkbox" name="author" value="Tan Ah Teck">Tan
-    <input type="checkbox" name="author" value="Mohd Ali">Ali
-    <input type="checkbox" name="author" value="Kumar">Kumar
-    <input type="submit" value="Query">
-  </form>
- 
-  <%
-  String[] authors = request.getParameterValues("author");
-  if (authors != null) {
-  %>
-    <h3>You have selected author(s):</h3>
-    <ul>
-  <%
-      for (int i = 0; i < authors.length; ++i) {
-  %>
-        <li><%= authors[i] %></li>
-  <%
-      }
-  %>
-    </ul>
-    <a href="<%= request.getRequestURI() %>">BACK</a>
-  <%
-  }
-  %>
-</body>
+	<head>
+		<title>Devops Final Project</title>
+	</head>
+	<body>
+		<style type="text/css">
+			
+		</style>
+		<center>
+			<h1 style="font-size: 40px; font-family: 'montserrat', 'Segoe UI', 'Verdana', sans-serif; margin-top: 150px;">
+				Devops Final Project
+			</h1>
+			<h2 style="font-size: 25px; font-family: 'montserrat', 'Segoe UI', 'Verdana', sans-serif;">
+				Students: Kobi Nisim & Itay Yaakov
+            </h2>
+            <div>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" style="height: 100px; margin-right: 70px;" />
+                <img src="https://internet-israel.com/wp-content/uploads/2018/01/download.png"/>
+                <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="height: 200px; margin-left:100px"/>
+            </div>
+		</center>
+	</body>
 </html>
