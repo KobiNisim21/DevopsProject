@@ -19,6 +19,21 @@
 		<img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="height: 200px; margin-left:100px"/>
             	
            </div>
+			
+		<h3><br>
+			Project details:<br>
+			1. installing a VM container an image of the Linux operating system-Ubuntu. <br>
+			2. Creating a JSP website.<br>
+			3. Putting the site's code into GitHub as a new project.<br>
+			4. Pull Jenkins docker image.<br>
+			5. Pull Tomcat docker image.<br>
+			6. Creating jobs in Jenkins:<br>
+			- The first job takes the JSP file from Git and copies it to the mapped folder.<br>
+			- A second job monitors the site (that running on Tomcat) using the SiteMonitor plugin.<br>
+			- A third job performs a manual monitor to check the integrity of the site and check if get 200 code.<br><br>
+			
+			As soon as a change is made to the project within GitHub - The change is automatically updated in Jenkins and Tomcat both.
+		</h3>
 		</center>
 	</body>
 </html>
