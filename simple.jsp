@@ -16,7 +16,7 @@
             <div>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" style="height: 100px; margin-right: 70px;" />
                 <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="height: 200px; margin-left:100px"/>
-            	<img src="https://w7.pngwing.com/pngs/180/365/png-transparent-jenkins-devops-continuous-integration-software-development-installation-selenium-text-hand-logo.png" style="height: 200px; margin-left:100px"/>
+            	<img src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409618.png" style="height: 200px; margin-left:100px"/>
            </div>
 		</center>
 	</body>
