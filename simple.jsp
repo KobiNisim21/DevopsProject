@@ -2,7 +2,7 @@
 	<head>
 		<title>Devops Final Project</title>
 	</head>
-	<body bgcolor="#800000">
+	<body bgcolor="#d0d0d0">
 		<style type="text/css">
 			
 		</style>
@@ -15,7 +15,7 @@
             </h2>
             <div>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png" style="height: 100px; margin-right: 70px;" />
-                <img src="https://internet-israel.com/wp-content/uploads/2018/01/download.png"/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png"style="height: 200px; margin-left:100px"/>
                 <img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="height: 200px; margin-left:100px"/>
             </div>
 		</center>
