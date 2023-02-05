@@ -2,7 +2,7 @@
 	<head>
 		<title>Devops Final Project</title>
 	</head>
-	<body bgcolor="#ffe6b3">
+	<body bgcolor="#ffffff">
 		<style type="text/css">
 			
 		</style>
