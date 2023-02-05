@@ -20,8 +20,8 @@
             	
            </div>
 			
-		<br><br>
-			<h2>Project details:</h2><br>
+		<br><br><br><br>
+			<h2>Project details:</h2>
 			<h3>
 			1. installing a VM container an image of the Linux operating system-Ubuntu. <br>
 			2. Creating a JSP website.<br>
